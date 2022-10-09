@@ -1,0 +1,8 @@
+{
+  "version": "8==⊃",
+  
+  "dependencies": {
+    "@discordjs/rest": "^0.5.0",
+    "discord.js": "^13.9.1"
+  }
+}
