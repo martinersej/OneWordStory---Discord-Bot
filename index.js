@@ -64,7 +64,7 @@ module.exports = {
 		return lastUser;
 	},
 	getChannelID: () => {
-		return lastUser;
+		return channelID;
 	}
 };
 
